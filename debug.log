@@ -1,0 +1,2 @@
+[0424/205158:ERROR:proxy_service_factory.cc(105)] Cannot use V8 Proxy resolver in single process mode.
+[0424/205242:ERROR:renderer_main.cc(227)] Running without renderer sandbox
